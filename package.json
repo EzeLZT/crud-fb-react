@@ -1,7 +1,7 @@
 {
   "name": "crud-fb-react",
   "version": "0.1.0",
-  "homepage": "https://EzeLZT.github.io/article-list-crud",
+  "homepage": "https://EzeLZT.github.io/crud-fb-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

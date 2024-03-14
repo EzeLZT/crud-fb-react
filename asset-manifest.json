@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-fb-react/static/css/main.db62923b.css",
+    "main.js": "/crud-fb-react/static/js/main.5aea3b34.js",
+    "index.html": "/crud-fb-react/index.html",
+    "main.db62923b.css.map": "/crud-fb-react/static/css/main.db62923b.css.map",
+    "main.5aea3b34.js.map": "/crud-fb-react/static/js/main.5aea3b34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.5aea3b34.js"
+  ]
+}
